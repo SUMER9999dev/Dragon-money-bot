@@ -1,2 +1,6 @@
-# Dragon-money-bot
-Just dragon money bot
+# Credits
+awdas, SUMER
+# requirements
+Selenium, requests, eel
+# Python version
+3.8
